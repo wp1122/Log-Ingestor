@@ -1,0 +1,6 @@
+fastapi==0.104.1
+pydantic==2.5.1
+uvicorn==0.24.0.post1
+elasticsearch8==8.11.0
+locust==2.18.3
+faker==20.0.3
